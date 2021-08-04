@@ -1,5 +1,5 @@
 # About
-I'm a full-stack developer located in South Finland. I use a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) to provide all the services. I usually code on my free time if i'm bored.
+I'm a full-stack developer located in Finland. I use a [Raspberry Pi 4](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) to provide all the services. I usually code on my free time if i'm bored.
 
 <span>
   <img src="https://img.shields.io/badge/Javascript-EFD81D?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" title="JavaScript" />
